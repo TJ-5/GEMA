@@ -1,0 +1,5 @@
+{
+  "labelcodes_file": "Labelcodes.txt",
+  "default_output_dir": ".",
+  "csv_columns": ["Index", "Titel", "Künstler", "Labelcode", "Dauer"]
+}
